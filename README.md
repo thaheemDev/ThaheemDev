@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Thaheem Super Dev</h1>
-<h3 align="center">A passionate frontend developer from Lahore, Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Arslan Thaheem</h1>
+<h3 align="center">A passionate fullStack developer from Lahore, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thaheemdev&label=Profile%20views&color=0e75b6&style=flat" alt="thaheemdev" /> </p>
 
